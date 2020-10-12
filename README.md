@@ -9,10 +9,10 @@
 - Lots of jumper cables.
 
 ## Steps
-1. Read temperature, barometer, humidity, sky
-2. Predict weather focust based on rules i.e if, else 
-3. Use the rules data to to train KNN model on google colab
-4. Export the model and import it into raspberry pi
+1. Read ambient temperature, barometer, humidity, light internsity
+2. Make weather forecast based on rules i.e if, else 
+3. Use the rules data to to train KNN model on python notebook
+4. Export the model from notebook and import it into raspberry pi
 4. Read raw values and pass to KNN model for weather prediction.
 
 ## References
